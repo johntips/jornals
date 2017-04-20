@@ -24,8 +24,8 @@
 
 
 - ソースコードと大体の構成
-![Proxyパターンの場合](../images/01.png)
-![組み合わせた場合](../images/02.png)
+![Proxyパターンの場合](https://raw.githubusercontent.com/johntips/jornals/master/images/01.png)
+![組み合わせた場合](https://raw.githubusercontent.com/johntips/jornals/master/images/02.png)
 
 ## イケてないところ
 
